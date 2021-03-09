@@ -24,7 +24,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
@@ -34,6 +33,6 @@
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://www.linkedin.com/in/chandan-nath-985208147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTl2w4rL2QXawM5D1pytOYg%3D%3D"></a>
+<a href="https://www.linkedin.com/in/chandan-nath-985208147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTl2w4rL2QXawM5D1pytOYg%3D%3D"></a>
 <a href="mailto:chandannath500@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chandannath500@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
