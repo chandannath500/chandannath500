@@ -32,7 +32,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/chandan-nath-985208147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTl2w4rL2QXawM5D1pytOYg%3D%3D"></a>
+<a href="https://www.linkedin.com/in/chandan-nath-985208147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTl2w4rL2QXawM5D1pytOYg%3D%3D"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chandan%20Nath%20-blue?style=flat-square&logo=linkedin"></a></a>
 <a href="mailto:chandannath500@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chandannath500@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
