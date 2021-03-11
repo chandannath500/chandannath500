@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; B.tech in Computer Science & Engineering.
-- 💼 &nbsp; Working as a IT executive.
+- 💼 &nbsp; Working as an IT executive.
 - 🌱 &nbsp; Learning more about MERN stack.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
