@@ -4,13 +4,10 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; B.tech in Computer Science & Engineering.
-- 💼 &nbsp; Working as an IT executive.
+- 💼 &nbsp; Working as an IT assistant manager.
 - 🌱 &nbsp; Learning more about MERN stack.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
